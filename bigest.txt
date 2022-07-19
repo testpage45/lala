@@ -1,0 +1,5 @@
+echo "enter the number" read a b
+if [ $a -gt $b ]
+then
+echo "A is big" else
+echo "B is big"
